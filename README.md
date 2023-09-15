@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @li oulu
+- 👀 I’m interested in AI ，
+- 🌱 I’m currently learning health caring with a focus on research in hypertension and big data analysis
+- 💞️ I’m looking to collaborate on Python data analisis.
